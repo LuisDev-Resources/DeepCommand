@@ -1,0 +1,13 @@
+{
+    "name": "weed/deep-command",
+    "type": "library",
+    "authors": [
+        {
+            "name": "lu1ssd33v",
+            "email": "lu1ssd33v@gmail.com"
+        }
+    ],
+    "require": {
+        "pocketmine/pocketmine-mp": "^5.18"
+    }
+}
